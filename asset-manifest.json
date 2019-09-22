@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/spinner/static/css/main.600324b9.chunk.css",
+    "main.js": "/spinner/static/js/main.a8ecd611.chunk.js",
+    "main.js.map": "/spinner/static/js/main.a8ecd611.chunk.js.map",
+    "runtime-main.js": "/spinner/static/js/runtime-main.a009fbc2.js",
+    "runtime-main.js.map": "/spinner/static/js/runtime-main.a009fbc2.js.map",
+    "static/js/2.1e1e4689.chunk.js": "/spinner/static/js/2.1e1e4689.chunk.js",
+    "static/js/2.1e1e4689.chunk.js.map": "/spinner/static/js/2.1e1e4689.chunk.js.map",
+    "index.html": "/spinner/index.html",
+    "precache-manifest.f88031f06cf92d1b7495f9aafa408991.js": "/spinner/precache-manifest.f88031f06cf92d1b7495f9aafa408991.js",
+    "service-worker.js": "/spinner/service-worker.js",
+    "static/css/main.600324b9.chunk.css.map": "/spinner/static/css/main.600324b9.chunk.css.map",
+    "static/media/index.css": "/spinner/static/media/12077.6786e350.png",
+    "static/media/settings-gears.png": "/spinner/static/media/settings-gears.b81cc1b7.png"
+  }
+}
