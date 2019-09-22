@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  background-image: url("./12077.png");
+  background-size: cover; 
+  height: 100vh;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 5em;
+}
+
+html {
+  height: 100%;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.drag {
+  position: absolute;
+  display: inline-block;  
+  background-color: white;
+}
+
+.button {
+  width: 100px;
+  display: flex;
+  background-color: transparent;
+  background-repeat:no-repeat;
+  border: none;
+  cursor:pointer;
+  overflow: hidden;
+  outline:none;
+}
+
+.setting {
+  width: 100px;
+  display: flex;
+  background-color: transparent;
+  background-repeat:no-repeat;
+  border: none;
+  cursor:pointer;
+  overflow: hidden;
+  outline:none;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+}
+
+.modal {
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.modal > div {
+  display: inline-block;
+}
+
+.modal > button {
+  display: inline-block;
+  width: 100px;
+}
+
+.line {
+  display: flex;
+  flex-direction: row;
+}
+
+.line > p {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.Modal {
+  position: absolute;
+  top: 40px;
+  left: 40px;
+  right: 40px;
+  bottom: 40px;
+  background-color: papayawhip;
+  width: 100px;
+  height: 100px;
+}
