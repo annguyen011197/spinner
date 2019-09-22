@@ -39,7 +39,7 @@ class App extends React.Component {
     >
       <div className="drag" style={this.getStyle(width, height)}>
         <RandomSpiner
-          items={["TOÁN", "LÝ", "HÓA", "VĂN", "KHÔNG CHUYÊN", "ĐỊA", "SINH", "TIN"]}
+          items={["TOÁN", "LÝ", "ANH", "VĂN", "KC", "ĐỊA", "SINH", "TIN"]}
           ref={ref}
         />
       </div>
